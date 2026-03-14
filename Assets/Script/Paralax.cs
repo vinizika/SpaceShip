@@ -1,5 +1,5 @@
 using UnityEngine;
-
+//testes
 public class Paralax : MonoBehaviour
 {
     private float lenght;
